@@ -7,6 +7,9 @@
 
 /* #Reset & Basics (Inspired by E. Meyers)
 ================================================== */
+	*{
+		font-weight: normal;
+	}
 	html, body, div, h1, p, a, img, ul, ol, li, {
 		margin: 0;
 		padding: 0;
