@@ -7,9 +7,6 @@
 
 /* #Reset & Basics (Inspired by E. Meyers)
 ================================================== */
-	*{
-		font-weight: normal;
-	}
 	html, body, div, h1, p, a, img, ul, ol, li, {
 		margin: 0;
 		padding: 0;
@@ -18,6 +15,7 @@
 		vertical-align: baseline;
  }
  	ol, ul, h1, h5, p{
+ 		font-weight:normal;
  		-webkit-margin-before: 0;
 		-webkit-margin-after: 0;
 		-webkit-margin-start: 0;
