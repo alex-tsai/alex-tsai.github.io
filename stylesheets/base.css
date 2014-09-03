@@ -45,5 +45,5 @@ p{
 /* #Links
 ================================================== */
 	a, a:visited {color:#363636; text-decoration: none; outline: 0; }
-	p a, p a:visited { line-height: inherit; }
-	a:hover{color:#D64541; }
+	p a, p a:visited {color:#D64541; line-height: inherit;opacity:0.75; }
+	a:hover{color:#D64541; opacity:1; }
