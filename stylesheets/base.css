@@ -15,6 +15,7 @@
 		vertical-align: baseline;
  }
  	ol, ul, h1, h5, p{
+ 		font-weight:normal;
  		-webkit-margin-before: 0;
 		-webkit-margin-after: 0;
 		-webkit-margin-start: 0;
@@ -45,5 +46,10 @@ p{
 /* #Links
 ================================================== */
 	a, a:visited {color:#363636; text-decoration: none; outline: 0; }
+<<<<<<< HEAD
 	p a, p a:visited {color:#D64541; line-height: inherit;opacity:0.75; }
 	a:hover{color:#D64541; opacity:1; }
+=======
+	p a, p a:visited { line-height: inherit; }
+	a:hover{color:#D64541; }
+>>>>>>> origin/master
