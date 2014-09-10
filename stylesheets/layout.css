@@ -1,6 +1,6 @@
 body{
 	font-size:24px;
-	background-color:#F9F9F0;
+	background-color:#F9F9F5;
 }
 .container{
 	margin-left:auto;
@@ -277,5 +277,8 @@ body{
 			margin-right:3%;
 			margin-top:3%;
 			margin-bottom:3%;
+		}
+		.projectnav{
+			font-size:3px;
 		}
 	}
