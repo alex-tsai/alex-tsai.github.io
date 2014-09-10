@@ -251,7 +251,7 @@ body{
 			background-image:url("../images/alex.jpg");
 			background-size:960px;
 			margin-bottom:2em; }
-		.about img{
+		#me{
 			display:none;
 		}
 
