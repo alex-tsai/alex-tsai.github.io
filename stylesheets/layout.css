@@ -279,6 +279,6 @@ body{
 			margin-bottom:3%;
 		}
 		.projectnav{
-			font-size:3px;
+			display:none;
 		}
 	}
