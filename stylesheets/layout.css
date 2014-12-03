@@ -39,7 +39,7 @@ body{
 .footer{
 	margin-top:5vh;
 	width:100%;
-	font-size:0.3em;
+	font-size:0.75em;
 	color:#959595;
 	text-align:center;
 }
@@ -229,9 +229,10 @@ body{
 			float:left;
 		}
 		.projectpage div p{
-			width:48.5%;
-			float:right;
+			width:50%;
+                        float: left;
 		}
+
 	}
 
 	/* All Mobile Sizes (devices and browser) */
