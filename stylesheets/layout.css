@@ -230,7 +230,7 @@ body{
 		}
 		.projectpage div p{
 			width:50%;
-			clear:both;
+			clear:right;
                         float: right;
 		}
 
