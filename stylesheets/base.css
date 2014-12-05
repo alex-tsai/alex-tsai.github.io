@@ -24,10 +24,10 @@
  }
 	body {
 		line-height: 1; }
-	/*ul,ol {*/
-	/*	list-style: none;*/
+	ul,ol {
+		list-style: none;
 		
-	/*}*/
+	}
 
 
 /* #Basic Styles
