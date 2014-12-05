@@ -25,7 +25,8 @@
 	body {
 		line-height: 1; }
 	ul,ol {
-		list-style: none; }
+		list-style: none;
+		list-style-position: inital}
 
 
 /* #Basic Styles
