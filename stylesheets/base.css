@@ -26,7 +26,9 @@
 		line-height: 1; }
 	ul,ol {
 		list-style: none;
-		list-style-position: inital}
+		list-style-position: inside;
+		
+	}
 
 
 /* #Basic Styles
