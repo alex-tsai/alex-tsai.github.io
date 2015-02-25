@@ -26,7 +26,7 @@
 		line-height: 1; }
 	ul,ol {
 		list-style: none;
-		
+
 	}
 
 
@@ -35,8 +35,8 @@
 /* #Typography
 ================================================== */
 div{
-	font-family:"Lora",serif;
-	color:#111;
+	font-family:"Roboto Slab",serif;
+	color:#333;
 }
 h1{
 	font-size:1.2em;
