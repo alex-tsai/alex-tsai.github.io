@@ -28,6 +28,20 @@
 
 </head>
 <body>
+  <script>
+  var title = ["Alex Tsai", "🔥lex Tsai", "A🔥ex Tsai", "Al🔥x Tsai","Ale🔥 Tsai","Alex🔥Tsai","Alex 🔥sai","Alex T🔥ai", "Alex Ts🔥i", "Alex Tsa🔥"];
+
+  setInterval( checkPageFocus, 200 );
+  function checkPageFocus() {
+
+    if ( document.hasFocus() ) {
+      document.title = "Alex Tsai";
+    } else {
+      document.title = title[0];
+    }
+  }
+
+  </script>
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div id="container">
